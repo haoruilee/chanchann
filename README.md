@@ -1,6 +1,6 @@
 # Hi,I'm Frank Yi <img src="./wave.gif" width="30px">
 
-I ❤️ C/C++
+I ❤️ C/C++ && server
 
 ## ⚡ Technologies
 
