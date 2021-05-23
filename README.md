@@ -1,7 +1,5 @@
 # Hi,I'm Frank Yi <img src="./wave.gif" width="30px">
 
-I ❤️ C/C++ && server
-
 ## ⚡ Technologies
 
 ![C++](https://img.shields.io/badge/-C++-00599C?style=flat-square&logo=c)
